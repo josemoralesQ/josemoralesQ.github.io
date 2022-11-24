@@ -1,0 +1,5 @@
+#Diccionario de Veterinaria
+Perros={"Doki":{"Raza":"labrador","Fecha nacimiento":2020-11-5,"Dueño":"José Diaz","Cel":300392939,"Vacunas":"3 vacunas","Alergias":"Mani","Visitas al veterinario":"4 visitas"},"Luna":{"Raza":"boxer","Fecha nacimiento":2014-11-5,"Dueño":"Juan Agilar","Cel":300392939,"Vacunas":"6 vacunas","Alergias":"Mani","Visitas al veterinario":"15 visitas"},
+"estrella":{"Raza":"Dalmata","Fecha nacimiento":2019-11-5,"Dueño":"carlos Agilar","Cel":3092939,"Vacunas":"2 vacunas","Alergias":"Mani","Visitas al veterinario":"3 visitas"},
+"Lulu":{"Raza":"frespuder","Fecha nacimiento":2018-11-5,"Dueño":"gaston vieto","Cel":322442939,"Vacunas":"6 vacunas","Alergias":"Mani","Visitas al veterinario":"9 visitas"},"sofi":{"Raza":"chihuahua","Fecha nacimiento":2022-11-5,"Dueño":"marcos vieto","Cel":321442939,"Vacunas":"1 vacunas","Alergias":"Mani","Visitas al veterinario":"2 visitas"}}
+print(Perros["Doki"])

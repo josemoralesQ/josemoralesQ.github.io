@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body{
+    font-family: 'Roboto', sans-serif; /*Tipo del letra Roboto*/
+  font-size: 14px;
+}
+.caja_static{
+    width: 150px;
+    height: 150px;
+    position: static;
+    color: #fff;
+    background-color: #000000;
+    left: 48px;
+    font-size: 120px;
+    text-align: center;
+}
+.caja_relative{
+    background-color:#3D0000;
+    color: #fff;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 48px;
+    top: 48px;
+    font-size: 120px;
+    text-align: center;
+}
+
+.enlace-blue{
+    text-decoration:none;
+    color: #4299e1;
+    margin: 8px;
+}
+.espacio{
+    padding-top: 24px;
+    padding-bottom: 24px;}
+
+.caja_absolute{
+    background-color: #a30707;
+    color: #fff;
+    padding: 12px;
+    position: absolute;
+    left: 80px;
+    margin-top: 90px;
+    font-size: 120px;
+    text-align: center;
+    width: 150px;
+    height: 150px;
+}
+.caja_fixed{
+    background-color: #FF0000;
+    color: #fff;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    font-size: 120px;
+    text-align: center;
+    margin-top: 220px;
+}
+

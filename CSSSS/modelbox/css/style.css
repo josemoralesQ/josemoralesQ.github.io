@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+.container{
+    background-color: brown;
+    color:#fff;
+    width: 100PX;
+    height: 100px;
+    padding: 0px 50px 0px 50px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    float: left;
+}
+
+.container:hover{
+    background-color: gold;
+    border: 2px solid blue;
+}
+
+.container2{
+    background-color: crimson;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    padding: 0px 50px 0px 50px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    float: left;
+}
+.container3{
+    background-color: rgb(253, 8, 57);
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    padding: 0px 50px 0px 50px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    float: left;
+}

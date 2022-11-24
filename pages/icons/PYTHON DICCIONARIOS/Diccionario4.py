@@ -1,0 +1,3 @@
+#Diccionario de personas
+Personas={"John perez":{"id":100553492,"Edad":17,"Sexo":"M","Cel":300392939,"Correo":"io@gmail.com"},"Juan Mendes":{"id":102523792,"Edad":16,"Sexo":"M","Cel":320457339,"Correo":"io@gmail.com"},"carlos carmona":{"id":1065483492,"Edad":19,"Sexo":"M","Cel":324397853,"Correo":"io@gmail.com"},"ana":{"id":174639491,"Edad":18,"Sexo":"F","Cel":311564939,"Correo":"io@gmail.com"},"Valentina":{"id":178593492,"Edad":15,"Sexo":"F","Cel":349629646,"Correo":"io@gmail.com"}}
+print(Personas["John perez"])
